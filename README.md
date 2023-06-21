@@ -1,2 +1,3 @@
 # DecimalLib
-working with big datas
+I am creating decimal library. For working big number.
+
